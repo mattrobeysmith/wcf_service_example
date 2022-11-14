@@ -1,0 +1,7 @@
+C:\Users\Matt\source\repos\SampleService\SampleService\bin\SampleService.dll.config
+C:\Users\Matt\source\repos\SampleService\SampleService\bin\SampleService.dll
+C:\Users\Matt\source\repos\SampleService\SampleService\bin\SampleService.pdb
+C:\Users\Matt\source\repos\SampleService\SampleService\obj\Debug\SampleService.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\SampleService\SampleService\obj\Debug\SampleService.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\SampleService\SampleService\obj\Debug\SampleService.dll
+C:\Users\Matt\source\repos\SampleService\SampleService\obj\Debug\SampleService.pdb
